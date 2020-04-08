@@ -39,6 +39,6 @@ https://www.youtube.com/watch?v=zzzzzzzzzz
 
 ## Contributors
 
-* John Doe, Team Lead
-* Alan Smith, Bug Fixer
+* Stephen Braitsch, Team Lead
+* Vitalii Lebediev, Developer
 
