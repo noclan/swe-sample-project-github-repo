@@ -1,4 +1,4 @@
-![Build and Test](https://github.com/drphamwit/SE-SampleGithubRepo/workflows/Java%20CI%20with%20Maven/badge.svg)
+![Build and Test](https://github.com/drphamwit/SE-SampleGithubRepo/workflows/Build%20and%20Test/badge.svg)
 
 # Your project name
 
