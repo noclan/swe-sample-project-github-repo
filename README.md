@@ -1,23 +1,27 @@
+![Build and Test](https://github.com/drphamwit/SE-SampleGithubRepo/workflows/Java%20CI%20with%20Maven/badge.svg)
+
 # Your project name
 
 This is a sample README file. It is required to have all sections below at the minimum but feel free to add more if you want. Also, it is recommended to follow the same formats with headers, bullet points, highlights...
 
+Here is a README.md example: https://github.com/drphamwit/SE-SampleGithubRepo/blob/master/README-Example.md
+
 ## Introduction
 
 Briefly describe what your project is all about.
+
+## Features
+List all the features (use cases) of your application.
+1. Feature #1
+2. Feature #2
+3. Feature #3
+4. ...
 
 ## Getting Started
 ### Installation and Setup
 List all the steps on how to install and setup your project
 ### Run
 List all the steps on how to run your project
-
-## Features
-List all the features (use cases) of your application.
-1. Feature #1
-2. Feature #2
-3. Feature #3 
-...
 
 ## Demo video
 
@@ -32,8 +36,8 @@ Sample: https://www.youtube.com/watch?v=Pr-JMqTkdEM
 
 How to record your screen: https://www.techradar.com/how-to/record-your-screen
 
-## Team members
+## Contributors
 
-* Roger Federer, Team Lead
-* Tiger Woods, Bug Fixer
+* John Doe, Team Lead
+* Alan Smith, Bug Fixer
 
