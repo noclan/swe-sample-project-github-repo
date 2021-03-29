@@ -4,7 +4,7 @@
 
 This is a sample README file. It is required to have all sections below at the minimum but feel free to add more if you want. Also, it is recommended to follow the same formats with headers, bullet points, highlights...
 
-Here is a README.md example: https://github.com/drphamwit/swe-sample-project-github-repo/edit/master/README-Example.md
+Here is a README.md example: https://github.com/drphamwit/swe-sample-project-github-repo/blob/master/README-Example.md
 
 ## Introduction
 
