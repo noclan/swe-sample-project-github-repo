@@ -1,19 +1,14 @@
-# Awesome Login
+# Online Bookstore
 
-Try it out here: [https://nodejs-login.herokuapp.com](https://nodejs-login.herokuapp.com)
+Try it out here: [https://onlinebookstore.com](https://onlinebookstore.com)
 
 ## Introduction
 
-A simple Login/Register application developed in Nodejs using Express.
+An online bookstore application for Wentworth students to buy and sell books.
 
 ## Features
-* New User Account Creation
-* Secure Password Reset via Email
-* Ability to Update / Delete Account
-* Session Tracking for Logged-In Users
-* Local Cookie Storage for Returning Users
-* Blowfish-based Scheme Password Encryption
-
+1. Manage user account
+	* Create a new account
 ## Getting Started
 ### Installation and Setup
 1. Install [Node.js](https://nodejs.org/) & [MongoDB](https://www.mongodb.org/) if you haven't already.
@@ -39,6 +34,6 @@ https://www.youtube.com/watch?v=zzzzzzzzzz
 
 ## Contributors
 
-* Stephen Braitsch, Team Lead
-* Vitalii Lebediev, Developer
+* John Doe (doej@wit.edu), Team Lead
+* Alan Smith (smitha@wit.edu), Developer
 
