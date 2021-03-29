@@ -13,13 +13,12 @@ Briefly describe what your project is all about.
 ## Functions
 List all the functions with their sub functions of your application.
 1. Function #1
-  - Sub function #1
-  - Sub function #2
+	* Sub function #1
+	* Sub function #2
 2. Function #2
-  - Sub function #1
+	* Sub function #1
 3. Function #3
-  - ...
-4. ...
+	* ...
 
 ## Getting Started
 ### Installation and Setup
@@ -42,7 +41,7 @@ How to record your screen: https://www.techradar.com/how-to/record-your-screen
 
 ## Contributors
 
-* student name, role
-* student name, role
+* student name (email), role
+* student name (email), role
 * ...
 
