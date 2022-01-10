@@ -10,15 +10,12 @@ Here is a README.md example: https://github.com/drphamwit/swe-sample-project-git
 
 Briefly describe what your project is all about.
 
-## Functions
-List all the functions with their sub functions of your application.
-1. Function #1
-	* Sub function #1
-	* Sub function #2
-2. Function #2
-	* Sub function #1
-3. Function #3
-	* ...
+## Features
+List all the features of your application.
+1. Feature #1
+2. Feature #2
+3. Feature #3
+4. ...
 
 ## Getting Started
 ### Installation and Setup
